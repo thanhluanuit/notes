@@ -27,3 +27,4 @@
 ## Nginx
 - Overview
 - Caching
+- Passenger with Nginx
