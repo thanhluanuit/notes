@@ -2,7 +2,7 @@
 
 ## Ruby on Rails
 - Active Job with Sidekiq
-- Fagment Caching
+- Fragment Caching
 
 ## APIs
 - Google Analytics API

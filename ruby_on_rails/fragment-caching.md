@@ -1,4 +1,4 @@
-# Fagment Caching:
+# Fragment Caching:
 
 ## Code example:
 ```ruby
