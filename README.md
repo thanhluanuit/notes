@@ -1,6 +1,7 @@
 # Notes
 
 ## Ruby on Rails
+- Redis Cache Store in Rails 5.2
 - Active Job with Sidekiq
 - Fragment Caching
 
