@@ -32,7 +32,7 @@
 ## Awesome Books
 
 ### Ruby Books
-- [Programming Ruby - 2nd Edition](/books/Ruby/Programming%20Ruby_2nd%20Edition.pdf)
+- [Programming Ruby (2nd Edition)](/books/Ruby/Programming%20Ruby_2nd%20Edition.pdf)
 - [The Ruby Programming Language](/books/Ruby/The%20Ruby%20Programming%20Language.pdf)
 - [The Ruby Way](/books/Ruby/The%20Ruby%20Way.pdf)
 - [AW Eloquent Ruby](/books/Ruby/AW%20Eloquent%20Ruby.pdf)
@@ -43,15 +43,15 @@
 - [Ruby Performance Optimization](/books/Ruby/Ruby%20Performance%20Optimization.pdf)
 
 ### Ruby on Rails Books
-- [Agile Web Development with Rails](/books/Ruby_on_Rails/Pragmatic Agile Web Development with Rails.pdf)
-- [Rails The Way](/books/Ruby_on_Rails/Rails The Way.pdf)
-- [Manning Rails 3 in Action](/books/Ruby_on_Rails/Manning Rails 3 in Action.pdf)
-- [Rails 5 Revealed](/books/Ruby_on_Rails/Rails 5 Revealed.pdf)
-- [APIs on Rails](/books/Ruby_on_Rails/APIs on Rails.pdf)
-- [Rails AntiPatterns](/books/Ruby_on_Rails/Rails AntiPatterns.pdf)
-- [Advanced Rails](/books/Ruby_on_Rails/Advanced Rails O Reilly.pdf)
-- [Ruby Science](/books/Ruby_on_Rails/Ruby Science.pdf)
-- [Service-Oriented Design with Ruby and Rails](/books/Ruby_on_Rails/Service-Oriented Design with Ruby and Rails.pdf)
+- [Agile Web Development with Rails](/books/Ruby_on_Rails/Pragmatic%20Agile%20Web%20Development%20with%20Rails.pdf)
+- [Rails The Way](/books/Ruby_on_Rails/Rails%20The%20Way.pdf)
+- [Manning Rails 3 in Action](/books/Ruby_on_Rails/Manning%20Rails%203%20in%20Action.pdf)
+- [Rails 5 Revealed](/books/Ruby_on_Rails/Rails%205%20Revealed.pdf)
+- [APIs on Rails](/books/Ruby_on_Rails/APIs%20on%20Rails.pdf)
+- [Rails AntiPatterns](/books/Ruby_on_Rails/Rails%20AntiPatterns.pdf)
+- [Advanced Rails](/books/Ruby_on_Rails/Advanced%20Rails%20O%20Reilly.pdf)
+- [Ruby Science](/books/Ruby_on_Rails/Ruby%20Science.pdf)
+- [Service-Oriented Design with Ruby and Rails](/books/Ruby_on_Rails/Service-Oriented%20Design%20with%20Ruby%20and%20Rails.pdf)
 
 ### RSpec Books
-- [The RSpec Book](/books/Ruby_on_Rails/The RSpec Book.pdf)
+- [The RSpec Book](/books/Ruby_on_Rails/The%20RSpec%20Book.pdf)
