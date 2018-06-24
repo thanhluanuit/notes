@@ -32,24 +32,22 @@
 ## Awesome Books
 
 ### Ruby Books
-- [Programming Ruby (2nd Edition)](/books/Ruby/Programming Ruby_2nd Edition.pdf)
+- [Programming Ruby - 2nd Edition](/books/Ruby/Programming Ruby_2nd Edition.pdf)
 - [The Ruby Programming Language](/books/Ruby/The Ruby Programming Language.pdf)
 - [The Ruby Way](/books/Ruby/The Ruby Way.pdf)
 - [AW Eloquent Ruby](/books/Ruby/AW Eloquent Ruby.pdf)
-
 - [Metaprogramming Ruby](/books/Ruby/Metaprogramming Ruby.pdf)
 - [Practical Object-Oriented Design in Ruby](/books/Ruby/Practical Object-Oriented Design in Ruby.pdf)
 - [Ruby Best Practices](/books/Ruby/Ruby Best Practices.pdf)
-- [Design Patterns in Ruby.pdf](/books/Ruby/Design Patterns in Ruby.pdf)
+- [Design Patterns in Ruby](/books/Ruby/Design Patterns in Ruby.pdf)
 - [Ruby Performance Optimization](/books/Ruby/Ruby Performance Optimization.pdf)
 
- ### Ruby on Rails Books
+### Ruby on Rails Books
 - [Agile Web Development with Rails](/books/Ruby_on_Rails/Pragmatic Agile Web Development with Rails.pdf)
 - [Rails The Way](/books/Ruby_on_Rails/Rails The Way.pdf)
 - [Manning Rails 3 in Action](/books/Ruby_on_Rails/Manning Rails 3 in Action.pdf)
 - [Rails 5 Revealed](/books/Ruby_on_Rails/Rails 5 Revealed.pdf)
 - [APIs on Rails](/books/Ruby_on_Rails/APIs on Rails.pdf)
-
 - [Rails AntiPatterns](/books/Ruby_on_Rails/Rails AntiPatterns.pdf)
 - [Advanced Rails](/books/Ruby_on_Rails/Advanced Rails O Reilly.pdf)
 - [Ruby Science](/books/Ruby_on_Rails/Ruby Science.pdf)
@@ -57,4 +55,3 @@
 
 ### RSpec Books
 - [The RSpec Book](/books/Ruby_on_Rails/The RSpec Book.pdf)
-
