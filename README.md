@@ -28,3 +28,7 @@
 - [Overview](/nginx/overview.md)
 - [Caching](/nginx/proxy_caching.md)
 - [Passenger with Nginx](/nginx/passenger_with_nginx.md)
+
+## Awesome Books
+- [Ruby](/books/Ruby)
+- [Ruby on Rails](/books/Ruby_on_Rails)
