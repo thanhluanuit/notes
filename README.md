@@ -32,15 +32,15 @@
 ## Awesome Books
 
 ### Ruby Books
-- [Programming Ruby - 2nd Edition](/books/Ruby/Programming Ruby_2nd Edition.pdf)
-- [The Ruby Programming Language](/books/Ruby/The Ruby Programming Language.pdf)
-- [The Ruby Way](/books/Ruby/The Ruby Way.pdf)
-- [AW Eloquent Ruby](/books/Ruby/AW Eloquent Ruby.pdf)
-- [Metaprogramming Ruby](/books/Ruby/Metaprogramming Ruby.pdf)
-- [Practical Object-Oriented Design in Ruby](/books/Ruby/Practical Object-Oriented Design in Ruby.pdf)
-- [Ruby Best Practices](/books/Ruby/Ruby Best Practices.pdf)
-- [Design Patterns in Ruby](/books/Ruby/Design Patterns in Ruby.pdf)
-- [Ruby Performance Optimization](/books/Ruby/Ruby Performance Optimization.pdf)
+- [Programming Ruby - 2nd Edition](/books/Ruby/Programming%20Ruby_2nd%20Edition.pdf)
+- [The Ruby Programming Language](/books/Ruby/The%20Ruby%20Programming%20Language.pdf)
+- [The Ruby Way](/books/Ruby/The%20Ruby%20Way.pdf)
+- [AW Eloquent Ruby](/books/Ruby/AW%20Eloquent%20Ruby.pdf)
+- [Metaprogramming Ruby](/books/Ruby/Metaprogramming%20Ruby.pdf)
+- [Practical Object-Oriented Design in Ruby](/books/Ruby/Practical%20Object-Oriented%20Design%20in%20Ruby.pdf)
+- [Ruby Best Practices](/books/Ruby/Ruby%20Best%20Practices.pdf)
+- [Design Patterns in Ruby](/books/Ruby/Design%20Patterns%20in%20Ruby.pdf)
+- [Ruby Performance Optimization](/books/Ruby/Ruby%20Performance%20Optimization.pdf)
 
 ### Ruby on Rails Books
 - [Agile Web Development with Rails](/books/Ruby_on_Rails/Pragmatic Agile Web Development with Rails.pdf)
