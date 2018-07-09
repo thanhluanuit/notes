@@ -1,4 +1,4 @@
-# Notes
+# My Notes Collection
 
 ## Ruby on Rails
 - [Redis Cache Store in Rails 5.2](/ruby_on_rails/redis-cache-store.md)
@@ -30,6 +30,13 @@
 - [Passenger with Nginx](/nginx/passenger_with_nginx.md)
 
 ## Awesome Books
+
+### Top 5 great books every developers should read
+- The Passionate Programmer by Chad Fowler
+- Clean Code by Robert C. Martin
+- Head First Design Patterns by Elisabeth Freeman and Kathy Sierra
+- The Pragmatic Programmer by Andy Hunt and Dave Thomas
+- Soft Skills: The software developer's life manual by John Sonmez
 
 ### Ruby Books
 - [Programming Ruby (2nd Edition)](/books/Ruby/Programming%20Ruby_2nd%20Edition.pdf)
