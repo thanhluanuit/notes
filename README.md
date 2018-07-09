@@ -31,8 +31,8 @@
 
 ## Awesome Books
 
-### Top 5 great books every developers should read
-- The Passionate Programmer by Chad Fowler
+### Top 5 Great Books every Developers should Read
+- [The Passionate Programmer](/books/the_passionate_programmer.md) by Chad Fowler
 - Clean Code by Robert C. Martin
 - Head First Design Patterns by Elisabeth Freeman and Kathy Sierra
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
