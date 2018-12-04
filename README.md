@@ -22,7 +22,8 @@
 ## Refactor
 - [Principles](/refactor/principles.md)
 - [Design Patterns](/refactor/design_patterns.md)
-- [Head First Design Patterns Book](/refactor/Head%20First%20Design%20Patterns.pdf)
+- [Head First Design Patterns Book](/books/refactor/Head_First_Design_Patterns.pdf)
+- [Refactoring: Improving the Design of Existing Code.pdf](/books/refactor/Refactoring_Improving_the_Design_of_Existing_Code.pdf)
 
 ## Nginx
 - [Overview](/nginx/overview.md)
