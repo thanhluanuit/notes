@@ -11,7 +11,7 @@
 - [Twilio API](/api/twilio-api.md)
 - [Twitter API](/api/twitter-api.md)
 
-## Performance Optimization Checklist [*](/performance_optimization/performance-checklist.md)
+## Performance Optimization Checklist [[here]](/performance_optimization/performance-checklist.md)
 - Front-end
 - Back-end
 - Database
@@ -33,11 +33,11 @@
 ## Awesome Books
 
 ### Top 5 Great Books every Developers should Read
-- [The Passionate Programmer](/books/the_passionate_programmer.md) by Chad Fowler
-- Clean Code by Robert C. Martin
-- Head First Design Patterns by Elisabeth Freeman and Kathy Sierra
-- The Pragmatic Programmer by Andy Hunt and Dave Thomas
-- Soft Skills: The software developer's life manual by John Sonmez
+- [The Passionate Programmer](/books/5_awesome_books/The%20Passionate%20Programmer.pdf) by Chad Fowler
+- [Clean Code](/books/5_awesome_books/Clean%20Code.pdf) by Robert C. Martin
+- [Head First Design Patterns](/books/5_awesome_books/Head%20First%20Design%20Patterns.pdf) by Elisabeth Freeman and Kathy Sierra
+- [The Pragmatic Programmer](/books/5_awesome_books/The%20Pragmatic%20Programmer.pdf) by Andy Hunt and Dave Thomas
+- [Soft Skills: The software developer's life manual](/books/5_awesome_books/Soft%20Skills.pdf) by John Sonmez
 
 ### Ruby Books
 - [Programming Ruby (2nd Edition)](/books/Ruby/Programming%20Ruby_2nd%20Edition.pdf)
